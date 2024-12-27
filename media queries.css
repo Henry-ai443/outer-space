@@ -1,0 +1,12 @@
+@media(max-width: 599px){
+    header{
+        font-size: 0.7em;
+    }
+    .description h2{
+      font-style: italic;
+    }
+
+    .description p{
+        font-style: italic;
+    }
+}
